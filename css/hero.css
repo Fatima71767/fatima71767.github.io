@@ -1,0 +1,117 @@
+element.style{
+	margin: 0;
+}
+
+header{
+	background-image:url("https://wp.technologyreview.com/wp-content/uploads/2019/05/hubble-telescope-nasa-10.jpg");
+	text-align:center;
+}
+
+footer{
+	background-image:url("https://wp.technologyreview.com/wp-content/uploads/2019/05/hubble-telescope-nasa-10.jpg");
+	text-align:center;
+}
+
+footer p{
+	font-family:cursive;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin:0px;
+	font-size:20px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+header p{
+	font-family: 'The Girl Next Door', cursive;
+	font-size: 80px;
+	color: 	#F1D26E;
+	margin: 0px;
+	padding:10px;
+
+}
+
+header img{
+	border-radius: 294px;
+	width: 434px;
+	border: 30px solid;
+	border-color: #D2A505;
+	margin-top:25px;
+}
+
+main{
+	padding:10px;
+	font-size:20px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
+	margin:0 auto;
+	width:800px;
+	margin: 0 auto;
+}
+
+main p{
+	padding-left:10px;
+	line-height: 25px;
+	font-family: Mate;
+	color: #F1D26E;
+}
+
+main h2{
+	text-align:center;
+	font-size: 40px;
+	font-family: 'Arvo', serif;
+}
+
+main img{
+	max-width: 100%;
+	border: 3px solid #F1D26E; 	
+}
+
+a{
+	color:#F1D26E;
+	target="_blank";
+}
+
+footer a{
+	color: #F1D26E;
+	text-align: center;
+}
+.listhead{
+	font-family: 'Mate', serif;
+	font-style:bold;
+	font-size:50px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.caption{
+	padding-top:0px;
+	text-align:center;
+	margin-top:0px;
+	font-size:18px;
+	line-height: 20px;
+}
+
+.listt{
+	line-height:25px;
+}
+
+body{
+	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
+
+	}
+body text{
+	color: #F1D26E;
+}
+
+ol{
+	color: #F1D26E;
+}
+
+h1{
+	color: 	#F1D26E;
+	font-family: 'Mate', serif;
+	font-style:bold;
+	font-size:30px;
+	line-height: 20px;
+}	
