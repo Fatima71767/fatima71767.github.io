@@ -44,10 +44,11 @@ main{
 	padding:10px;
 	font-family: 'David Libre', serif;
 	font-size:20px;
-	background-color:white;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
 	margin:0 auto;
 	width:800px;
 	margin: 0 auto;
+	font-color: Gold;
 }
 
 main p{
