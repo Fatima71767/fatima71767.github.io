@@ -1,80 +1,92 @@
-body{
+element.style{
 	margin: 0;
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 20px;
-	line-height: 30px;
 }
 
 header{
-	background-color: #d14635;
-	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
-}
-
-h1, h2{
-	font-family: 'Press Start 2P', cursive;
-}
-
-header h1{
-	color: white;
-	font-size: 50px;
-}
-	
-header img{
-	border-radius: 170px;
-	width: 300px;
-	border: 20px solid white;
-}
-
-main{
-	max-width: 1000px;
-	margin: 0 auto;
-	padding: 20px;
-}
-
-main img{
-	width: 800px;
-	height: 450px;
-}
-
-h2{
-	font-size: 30px;
-	color: #e70c19;
-	margin: 40px 0 10px;
-}
-
-a{
-	color: #e70c19;
-}
-
-a:hover{
-	color: white;
-	background-color: #483a94;
+	background-image:url("https://wp.technologyreview.com/wp-content/uploads/2019/05/hubble-telescope-nasa-10.jpg");
+	text-align:center;
 }
 
 footer{
-	background-color: #d14635;
-	text-align: center;
-	color: white;
-	padding: 50px;
+	background-image:url("https://wp.technologyreview.com/wp-content/uploads/2019/05/hubble-telescope-nasa-10.jpg");
+	text-align:center;
 }
 
 footer p{
-	margin: 0;
+	font-family:cursive;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin:0px;
+	font-size:20px;
+}
+
+header p{
+	font-family: 'The Girl Next Door', cursive;
+	font-size: 80px;
+	color: #DCDCDC;
+	margin: 0px;
+	padding:10px;
+
+}
+
+header img{
+	border-radius: 220px;
+	width: 400px;
+	border: 20px solid;
+	border-color: #C0C0C0;
+	margin-top:25px;
+}
+
+main{
+	padding:10px;
+	font-family: 'David Libre', serif;
+	font-size:20px;
+	background-color:white;
+	margin:0 auto;
+	width:800px;
+	margin: 0 auto;
+}
+
+main p{
+	padding-left:10px;
+	line-height: 25px;
+}
+
+main h2{
+	text-align:center;
+	font-size: 40px;
+	font-family: 'Piazzolla', serif;
+}
+
+main img{
+	max-width: 100%;	
+}
+
+a{
+	color:#708090;
+	target="_blank";
 }
 
 footer a{
 	color: white;
 }
-
-footer a:hover{
-	opacity: .5;
-	background-color: transparent;
+.listhead{
+	font-family: 'Piazzolla', serif;
+	font-style:italic;
+	font-style:bold;
+	font-size:30px;
+	line-height: 20px;
 }
 
-p.caption{
-	color: #999999;
-	font-style: italic;
-	margin-top: 0;
+.caption{
+	padding-top:0px;
+	text-align:center;
+	margin-top:0px;
+	font-size:18px;
+	line-height: 20px;
+}
+
+.listt{
+	line-height:25px;
 }
