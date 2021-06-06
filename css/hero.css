@@ -95,9 +95,17 @@ footer a{
 .listt{
 	line-height:25px;
 }
+
 body{
 	background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
 	}
+
 body text{
 	color: wheat;
 	}
+
+ul a{
+	color: wheat;
+	}
+
+	
