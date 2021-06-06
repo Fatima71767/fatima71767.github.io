@@ -42,7 +42,6 @@ header img{
 
 main{
 	padding:10px;
-	font-family: 'David Libre', serif;
 	font-size:20px;
 	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGa4U3HMjP2hQpGELCGf_CiYvQ1sFSzAWgg&usqp=CAU);
 	margin:0 auto;
@@ -53,14 +52,14 @@ main{
 main p{
 	padding-left:10px;
 	line-height: 25px;
-	font-family: Mate SC;
-	color: wheat;
+	font-family: Mate;
+	color: #F1D26E;
 }
 
 main h2{
 	text-align:center;
 	font-size: 40px;
-	font-family: 'Mate', serif;
+	font-family: 'Arvo', serif;
 }
 
 main img{
