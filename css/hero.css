@@ -19,12 +19,13 @@ footer p{
 	padding-left: 10px;
 	margin:0px;
 	font-size:20px;
+	text-align: center;
 }
 
 header p{
 	font-family: 'The Girl Next Door', cursive;
 	font-size: 80px;
-	color: #DCDCDC;
+	color: 	#FFD700;
 	margin: 0px;
 	padding:10px;
 
@@ -70,7 +71,7 @@ a{
 
 footer a{
 	color: white;
-}
+	text-align: center;
 .listhead{
 	font-family: 'Piazzolla', serif;
 	font-style:italic;
